@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm passionate about building things with code and
 
 ## Projects Worth Checking Out
 
-- [Project Name](#): A brief one-line description of the project.
+- [Password Manager](#): A brief one-line description of the project.
 - [Another Project](#): What makes it special or useful.
 - [One More](#): Just because I had fun building it.
 
 ## Let's Connect
 
-- LinkedIn: [](https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Syed Ameer Hamza at LinkedIn] (https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Portfolio: [Your Portfolio Website](#)
 
 ## Stats
