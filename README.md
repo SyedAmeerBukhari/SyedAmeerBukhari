@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Ameer Hamza!
 
-Welcome to my GitHub profile! I'm passionate about building things with code and exploring new technologies. Whether it's web development, data science, or open-source contributions, you'll find a variety of projects here that reflect my journey as a developer.
+Welcome to my GitHub profile! I'm passionate about building things with code and exploring new technologies. Whether it's web development, Artificial Intelligence, or Game Development, you'll find a variety of projects here that reflect my journey as a developer.
 
 ## What I Do
 
@@ -17,12 +17,12 @@ Welcome to my GitHub profile! I'm passionate about building things with code and
 
 ## Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)
+- LinkedIn: [](https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Portfolio: [Your Portfolio Website](#)
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAmeerBukhari&show_icons=true&theme=github_dark)
 
 Thanks for stopping by!
 
