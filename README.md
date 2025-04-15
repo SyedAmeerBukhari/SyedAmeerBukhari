@@ -1,14 +1,13 @@
-# Hi there, I'm [Your Name]!
+# Hi there, I'm Syed Ameer Hamza!
 
 Welcome to my GitHub profile! I'm passionate about building things with code and exploring new technologies. Whether it's web development, data science, or open-source contributions, you'll find a variety of projects here that reflect my journey as a developer.
 
 ## What I Do
 
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js
-- **Data Science & AI:** Python, Pandas, NumPy, scikit-learn, TensorFlow
+- **AI:** Python, Pandas, NumPy, scikit-learn, TensorFlow
 - **Machine Learning Projects:** From exploratory data analysis to building models
 - **Game Development & Fun Projects:** Experiments with Unity and C#
-- **Open Source Enthusiast:** Love collaborating on cool ideas
 
 ## Projects Worth Checking Out
 
@@ -18,9 +17,8 @@ Welcome to my GitHub profile! I'm passionate about building things with code and
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: [https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)
 - Portfolio: [Your Portfolio Website](#)
-- Twitter: [@yourhandle](#)
 
 ## Stats
 
