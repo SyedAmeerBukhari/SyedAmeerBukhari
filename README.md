@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm passionate about building things with code and
 
 ## Projects Worth Checking Out
 
-- [Password Manager](#): A brief one-line description of the project.
-- [Another Project](#): What makes it special or useful.
+- [Password Manager](#): A secure and customizable Flutter-based password manager with encryption, password generation, and strength analysis..
+- [MediTracker](#): A comprehensive Windows Forms application for managing patient medical records, including demographics, medical history, lab results, radiology, procedures, referrals, consultant opinions, and case summaries.
 - [One More](#): Just because I had fun building it.
 
 ## Let's Connect
 
-- LinkedIn: [Syed Ameer Hamza at LinkedIn] (https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Syed Ameer Hamza at LinkedIn](https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Portfolio: [Your Portfolio Website](#)
 
 ## Stats
