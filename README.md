@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm passionate about building things with code and
 
 ## Let's Connect
 
-- LinkedIn: [Syed Ameer Hamza at LinkedIn](https://www.linkedin.com/in/syed-ameer-hamza-buhari-063387316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Portfolio: [Your Portfolio Website](#)
+- LinkedIn: [Syed Ameer Hamza at LinkedIn](www.linkedin.com/in/syed-ameer-hamza-buhari)
+- Portfolio: [Your Portfolio Website](https://syedameerbukhari.github.io/Protfolio-website/)
 
 ## Stats
 
